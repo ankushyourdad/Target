@@ -379,7 +379,7 @@ done
 echo -e "\e[1;32m"
 toilet -f  mono12 Target  | lolcat
 
-echo -e "\e[1;34m Created By @sparkz_technology \e[1;31m              v6.sparkz"
+echo -e "\e[1;34m Developed By Ankush \e[1;31m              IP Tracker"
 
 
 dependencies
